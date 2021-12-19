@@ -16,6 +16,7 @@ var app = new Vue({
                 variantId: 2235,
                 variantColor: 'blue'
             }
-        ]
+        ],
+        'sizes': ['s', 'm', 'l', 'xl', 'xxl'],
     }
 });
